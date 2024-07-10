@@ -14,3 +14,7 @@
     <p>locale_get_display_language</p>
 </body>
 </html>
+<?php
+   include "name.php";
+   echo "<h2>$fname $lname</h2>";
+?>
